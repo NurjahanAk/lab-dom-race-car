@@ -4,7 +4,7 @@ class Projectile {
     this.top = carTop;
     this.width = 20;
     this.height = 70;
-    this.boom = new Audio("../assets/boom.wav");
+    this.boom = new Audio("assets/boom.wav");
     this.boom.volume = 0.1;
     this.boom.play();
     this.element = document.createElement("img");

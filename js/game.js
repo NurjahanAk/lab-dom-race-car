@@ -11,7 +11,7 @@ class Game {
       400,
       125,
       180,
-      "../images/deadpool.jpg"
+      "images/deadpool.jpg"
     );
     this.height = 600;
     this.width = 500;

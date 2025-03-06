@@ -13,7 +13,7 @@ class Player {
     this.height = playerHeight;
     this.directionX = 0;
     this.directionY = 0;
-    this.horn = new Audio("../assets/horn.wav");
+    this.horn = new Audio("assets/horn.wav");
     this.horn.volume = 0.1;
     this.isShooting = false;
     //this is the img tag
